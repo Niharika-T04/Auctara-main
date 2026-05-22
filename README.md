@@ -1,6 +1,6 @@
 # Auctara — Online Auction System with Fraud Detection Engine
 
-> A production-grade full-stack auction platform with a real-time "Red Alert" Fraud Detection Engine, Reputation System, and live bidding via Socket.io.
+A MySQL-based auction system with secure bidding, live price updates, and built-in fraud detection.
 
 ---
 
